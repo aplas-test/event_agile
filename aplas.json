@@ -22,7 +22,28 @@
       "months_to_renew_support": "33",
       "sme_email": "Sibilla.Playhill@memento.net.au",
       "vendor_phone": "+263 806 203 4194",
-      "investment_number": "313"
+      "investment_number": "313",
+      "integrations": [
+        {
+          "id": "int-060",
+          "name": "INT-060",
+          "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
+          "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+          "sourceApplicationId": "event_agile",
+          "targetApplicationId": "redhold",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Enrichment",
+          "golive_date": "30/6/15",
+          "sme_name": "Gerri Gwyllt",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "ggwylltn@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "15/6/17"
+        }
+      ]
     }
   ]
 }
