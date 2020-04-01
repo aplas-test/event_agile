@@ -29,7 +29,6 @@
           "name": "INT-060",
           "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
           "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-          "sourceApplicationId": "event_agile",
           "targetApplicationId": "redhold",
           "logical_server": "ONLINE",
           "status_color": "#00FF00",
